@@ -38,17 +38,14 @@ Proyek ini merupakan implementasi **IoT (Internet of Things)** menggunakan **ESP
 
 ## 🔗 Simulasi Wokwi
 Kamu bisa mencoba simulasi project ini langsung di Wokwi dengan link berikut:  
-👉 [Buka Simulasi di Wokwi](https://wokwi.com/projects/417030156743043193)  
+👉 [Buka Simulasi di Wokwi](https://wokwi.com/projects/417035016743304193)  
 
 ---
 
 ## 📊 Hasil Monitoring Thingspeak
-Link Thingspeak: [Klik di sini](https://thingspeak.com/)  
+Link Thingspeak: [Klik di sini](https://thingspeak.mathworks.com/channels/2769622/private_show)  
 *(ganti dengan URL channel kamu)*
 
 ---
 
-## 🔧 Cara Menjalankan
-1. Clone repository ini:
-   ```bash
-   git clone https://github.com/Larasitradini/Sistem-Monitoring-Suhu-dan-Kelembaban-dengan-Thingspeak-dan-Kontrol-Servo.git
+
